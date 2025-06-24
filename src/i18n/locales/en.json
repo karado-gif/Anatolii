@@ -1,0 +1,124 @@
+{
+  "common": {
+    "search": "Search",
+    "filter": "Filter",
+    "apply": "Apply",
+    "cancel": "Cancel",
+    "back": "Back",
+    "next": "Next",
+    "save": "Save",
+    "delete": "Delete",
+    "edit": "Edit",
+    "loading": "Loading...",
+    "error": "Error",
+    "success": "Success",
+    "language": "Language"
+  },
+  "navigation": {
+    "home": "Home",
+    "search": "Search Cars",
+    "profile": "Profile",
+    "forum": "Forum",
+    "notifications": "Notifications"
+  },
+  "home": {
+    "title": "Karado",
+    "subtitle": "Cars from Japanese Auctions",
+    "searchPlaceholder": "Find a car...",
+    "featuredCars": "Featured Cars",
+    "quickSearch": "Quick Search",
+    "aiAssistant": "AI Assistant",
+    "auctionStats": "Auction Statistics"
+  },
+  "search": {
+    "title": "Search Cars",
+    "brand": "Brand",
+    "model": "Model",
+    "year": "Year",
+    "mileage": "Mileage",
+    "engine": "Engine",
+    "fuel": "Fuel",
+    "drive": "Drive",
+    "price": "Price",
+    "condition": "Condition",
+    "searchButton": "Search",
+    "clearFilters": "Clear Filters"
+  },
+  "carList": {
+    "title": "Found Cars",
+    "sortBy": "Sort by",
+    "price": "Price",
+    "year": "Year",
+    "mileage": "Mileage",
+    "condition": "Condition",
+    "currentBid": "Current Bid",
+    "recommendedBid": "Recommended Bid",
+    "moreDetails": "More Details",
+    "placeBid": "Place Bid"
+  },
+  "carDetail": {
+    "title": "Car Details",
+    "photos": "Photos",
+    "description": "Description",
+    "specifications": "Specifications",
+    "auctionSheet": "Auction Sheet",
+    "biddingHistory": "Bidding History",
+    "finalPrice": "Final Price",
+    "customs": "Customs",
+    "freight": "Freight",
+    "totalCost": "Total Cost",
+    "status": "Status",
+    "onAuction": "On Auction",
+    "sold": "Sold",
+    "condition": "Condition",
+    "excellent": "Excellent",
+    "good": "Good",
+    "fair": "Fair",
+    "poor": "Poor"
+  },
+  "profile": {
+    "title": "Profile",
+    "personalInfo": "Personal Info",
+    "purchaseHistory": "Purchase History",
+    "myAuctions": "My Auctions",
+    "deposit": "Deposit",
+    "balance": "Balance",
+    "settings": "Settings",
+    "logout": "Logout",
+    "sellCar": "Sell Car"
+  },
+  "forum": {
+    "title": "Forum",
+    "topics": "Topics",
+    "replies": "Replies",
+    "lastPost": "Last Post",
+    "newTopic": "New Topic",
+    "searchTopics": "Search Topics"
+  },
+  "notifications": {
+    "title": "Notifications",
+    "bidStatus": "Bid Status",
+    "newAuctions": "New Auctions",
+    "carStatus": "Car Status Change",
+    "markAsRead": "Mark as Read",
+    "clearAll": "Clear All"
+  },
+  "payment": {
+    "title": "Payment",
+    "deposit": "10% Deposit",
+    "paymentMethods": "Payment Methods",
+    "card": "Card",
+    "crypto": "Cryptocurrency",
+    "amount": "Amount",
+    "pay": "Pay",
+    "terms": "Terms"
+  },
+  "ai": {
+    "title": "AI Assistant",
+    "subscription": "Subscription",
+    "demandAnalysis": "Demand Analysis",
+    "pricePrediction": "Price Prediction",
+    "recommendations": "Recommendations",
+    "subscribe": "Subscribe"
+  }
+} 

@@ -1,0 +1,124 @@
+{
+  "common": {
+    "search": "Поиск",
+    "filter": "Фильтр",
+    "apply": "Применить",
+    "cancel": "Отмена",
+    "back": "Назад",
+    "next": "Далее",
+    "save": "Сохранить",
+    "delete": "Удалить",
+    "edit": "Редактировать",
+    "loading": "Загрузка...",
+    "error": "Ошибка",
+    "success": "Успешно",
+    "language": "Язык"
+  },
+  "navigation": {
+    "home": "Главная",
+    "search": "Поиск авто",
+    "profile": "Профиль",
+    "forum": "Форум",
+    "notifications": "Уведомления"
+  },
+  "home": {
+    "title": "Karado",
+    "subtitle": "Авто с японских аукционов",
+    "searchPlaceholder": "Найти автомобиль...",
+    "featuredCars": "Популярные авто",
+    "quickSearch": "Быстрый поиск",
+    "aiAssistant": "AI-ассистент",
+    "auctionStats": "Статистика аукционов"
+  },
+  "search": {
+    "title": "Поиск автомобилей",
+    "brand": "Марка",
+    "model": "Модель",
+    "year": "Год выпуска",
+    "mileage": "Пробег",
+    "engine": "Объем двигателя",
+    "fuel": "Топливо",
+    "drive": "Привод",
+    "price": "Цена",
+    "condition": "Состояние",
+    "searchButton": "Найти",
+    "clearFilters": "Очистить фильтры"
+  },
+  "carList": {
+    "title": "Найденные автомобили",
+    "sortBy": "Сортировать по",
+    "price": "Цене",
+    "year": "Году",
+    "mileage": "Пробегу",
+    "condition": "Состоянию",
+    "currentBid": "Текущая ставка",
+    "recommendedBid": "Рекомендуемая ставка",
+    "moreDetails": "Подробнее",
+    "placeBid": "Сделать ставку"
+  },
+  "carDetail": {
+    "title": "Детали автомобиля",
+    "photos": "Фотографии",
+    "description": "Описание",
+    "specifications": "Характеристики",
+    "auctionSheet": "Аукционный лист",
+    "biddingHistory": "История торгов",
+    "finalPrice": "Финальная стоимость",
+    "customs": "Таможня",
+    "freight": "Фрахт",
+    "totalCost": "Общая стоимость",
+    "status": "Статус",
+    "onAuction": "На аукционе",
+    "sold": "Продано",
+    "condition": "Состояние",
+    "excellent": "Отличное",
+    "good": "Хорошее",
+    "fair": "Удовлетворительное",
+    "poor": "Плохое"
+  },
+  "profile": {
+    "title": "Личный кабинет",
+    "personalInfo": "Личная информация",
+    "purchaseHistory": "История покупок",
+    "myAuctions": "Мои аукционы",
+    "deposit": "Депозит",
+    "balance": "Баланс",
+    "settings": "Настройки",
+    "logout": "Выйти",
+    "sellCar": "Продать авто"
+  },
+  "forum": {
+    "title": "Форум",
+    "topics": "Темы",
+    "replies": "Ответы",
+    "lastPost": "Последнее сообщение",
+    "newTopic": "Новая тема",
+    "searchTopics": "Поиск тем"
+  },
+  "notifications": {
+    "title": "Уведомления",
+    "bidStatus": "Статус ставки",
+    "newAuctions": "Новые аукционы",
+    "carStatus": "Изменение статуса авто",
+    "markAsRead": "Отметить как прочитанное",
+    "clearAll": "Очистить все"
+  },
+  "payment": {
+    "title": "Оплата",
+    "deposit": "Депозит 10%",
+    "paymentMethods": "Способы оплаты",
+    "card": "Банковская карта",
+    "crypto": "Криптовалюта",
+    "amount": "Сумма",
+    "pay": "Оплатить",
+    "terms": "Условия"
+  },
+  "ai": {
+    "title": "AI-ассистент",
+    "subscription": "Подписка",
+    "demandAnalysis": "Анализ спроса",
+    "pricePrediction": "Прогноз цен",
+    "recommendations": "Рекомендации",
+    "subscribe": "Подписаться"
+  }
+} 
